@@ -2,3 +2,4 @@ Run the code automatically bu using triggers concept to schdeule the job by usin
 * * * * * means min:hrs:date:month:week of the day
 just now we converted in india time zone
 after we restartd the jenkins server in cmd
+12345
