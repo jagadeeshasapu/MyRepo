@@ -2,4 +2,4 @@ Today we integrated the jenkins server by using CI pipeline
 We do the automtion for jenkins by using github repo
 by using webhooks concept we automate the code
 In webhook-given the url called public ip with port/github-webhook/
-json
+json file  will be select
