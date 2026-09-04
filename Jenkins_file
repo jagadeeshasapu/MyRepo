@@ -1,1 +1,2 @@
 Today we integrated the jenkins server by using CI pipeline
+We do the automtion for jenkins by using github repo
